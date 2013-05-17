@@ -1,0 +1,5 @@
+<h1>Last tweets of @{{twitterUser}}</h2>
+
+<ul>
+  <li ng-repeat="post in timeline">{{post.created_at}}: {{post.text}}</li>
+</ul>

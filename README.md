@@ -1,6 +1,6 @@
 # Angularjs Requirejs Compass Seed Project
 
-Based on [Angular Require JS Seed](https://github.com/tnajdek/angular-requirejs-seed) this project includes Compass and an extenable service structure.
+Based on [Angular Require JS Seed](https://github.com/tnajdek/angular-requirejs-seed) and [https://github.com/tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed) this project includes Compass and an extenable service structure.
 
 ## Installation
 

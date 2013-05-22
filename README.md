@@ -2,6 +2,25 @@
 
 Based on [Angular Require JS Seed](https://github.com/tnajdek/angular-requirejs-seed) this project includes Compass and an extenable service structure.
 
+## Installation
+
+Install [node.js](http://nodejs.org/)
+
+Clone repository
+
+    $ git clone https://github.com/sfroestl/angularjs-requirejs-compass-seed.git YOURFOLDERNAME
+
+Run node js webserver
+
+    $ cd YOURFOLDERNAME
+    $ ./scripts/web-server.js
+
+Server runs on http://localhost:8000/app/index.html
+
+Compile Stylesheet with compass
+
+    $ compass watch app/
+    
 # From original [Angular Seed](https://github.com/angular/angular-seed) Documentation
 ### Running the app during development 
 
